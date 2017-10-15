@@ -1,6 +1,8 @@
 # Mee6 : The Discord bot
 ![Mee6](http://mee6.xyz/static/img/meeseeks.png)
 
+[![Build Status](https://travis-ci.org/cookkkie/mee6.svg?branch=master)](https://travis-ci.org/cookkkie/mee6)
+
 ## What is it?
 Mee6 is a Discord bot that lets you easily add your own commands to your server
 through a user-friendly dashboard. But this is just one of the numerous features 
